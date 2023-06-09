@@ -1,5 +1,5 @@
 # Smart-Light-SwitchBot
-This project aims to create a DIY Smart Light SwitchBot, controlled via my phone, using wifi.
+This project aims to create a DIY Smart Light SwitchBot, controlled via phone using wifi.
 
 ## Hardware
 - <a href="https://botland.com.pl/moduly-wifi-esp8266/8241-modul-wifi-esp8266-nodemcu-v3-5904422300630.html">WiFi Module ESP8266 + NodeMCU v3</a>
@@ -23,3 +23,9 @@ This project aims to create a DIY Smart Light SwitchBot, controlled via my phone
 
 ## YouTube presentation
 <a href="">Click here to see video</a>
+
+## My recommendations
+In above presentation I used PowerBank insted of typical USB-C charger, mainly because of another little experiment I was conducting by the way of this project. Also, my recommendation is to buy 4 long wires to connect BH1750 and NodeMCU v3 insted of using many male-to-female wires since it causes many connecting problems during installation (I was simply too lazy :)).
+
+## Resources and Inspiration
+<a href="https://electechoz.blogspot.com/2022/01/esp8266-webserver-controller-servo-motor.html">Eleco Techoz</a>
