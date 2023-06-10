@@ -1,5 +1,5 @@
 # Smart-Light-SwitchBot
-This project aims to create a DIY Smart Light SwitchBot, controlled via phone using wifi.
+This project aims to create a DIY Smart Light SwitchBot controlled via phone using wifi.
 
 ## Hardware
 - <a href="https://botland.com.pl/moduly-wifi-esp8266/8241-modul-wifi-esp8266-nodemcu-v3-5904422300630.html">WiFi Module ESP8266 + NodeMCU v3</a>
