@@ -6,7 +6,7 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 - <a href="https://botland.com.pl/czujniki-swiatla-i-koloru/2024-czujnik-natezenia-swiatla-bh1750-5904422373283.html">Light sensor BH1750</a>
 - <a href="https://botland.com.pl/serwa-typu-micro/13128-serwo-sg-90-micro-180-5904422350338.html">Serwo SG-90 - micro - 180 degrees</a>
 - <a href="https://botland.com.pl/diody-led/13606-dioda-led-5mm-zolta-10szt-5903351244244.html">LED Diode 5mm</a>
-- <a href="https://botland.com.pl/szukaj?s=przewody">Wires (male-to-male and men-to-female)</a>
+- <a href="[https://botland.com.pl/szukaj?s=przewody](https://botland.com.pl/przewody-polaczeniowe/19946-zestaw-przewodow-polaczeniowych-justpi-20cm-3x40szt-m-m-z-z-m-z-120szt-5904422328702.html)">Wires (male-to-male, female-to-female and men-to-female)</a>
 - USB-C cables + charger
 
 ## Breadboard
