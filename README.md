@@ -10,11 +10,11 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 - USB-C cables + charger
 
 ## Breadboard
-![Breadboard](Breadboard.png)
+![Breadboard](img/Breadboard.png)
 
 
 ## Schematic
-![Schematic](Schematic.png)
+![Schematic](img/Schematic.png)
 
 
 ## Used Software
