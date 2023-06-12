@@ -26,7 +26,7 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 ![Wires](img/wires-justpi-20cm-3x40szt-m-m-f-f-m-f-120szt.webp)
 
-- Micro USBlong cable + charger
+- Micro USB long cable + charger
 
 ![Micro USB](img/micro-usb-plus-charger.jpg)
 
@@ -35,7 +35,7 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 [BH1750 Module](https://nodemcu.readthedocs.io/en/release/lua-modules/bh1750/)
 
-[Servo](https://robojax.com/learn/arduino/robojax-servo-sg90_datasheet.pdf)
+[Servo](http://www.datasheet-pdf.com/PDF/SG90-Datasheet-TowerPro-791970)
 
 
 ## Breadboard
