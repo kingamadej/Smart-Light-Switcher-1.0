@@ -1,12 +1,12 @@
-# Smart-Light-SwitchBot
+# Smart-Light-Switch-Bot (1.0 version)
 This project aims to create a DIY Smart Light SwitchBot controlled via phone using wifi.
 
-## Hardware
+## Used Hardware
 - [WiFi Module ESP8266 + NodeMCU v3](https://botland.com.pl/moduly-wifi-esp8266/8241-modul-wifi-esp8266-nodemcu-v3-5904422300630.html)
 
 ![NodeMCUv3](img/wifi-esp8266-nodemcu-v3.webp)
 
-![NodeMCUv3](img/esp8266-wifi-nodemcu-v3.webp)
+<!--![NodeMCUv3](img/esp8266-wifi-nodemcu-v3.webp)-->
 
 - [Light sensor BH1750](https://botland.com.pl/czujniki-swiatla-i-koloru/2024-czujnik-natezenia-swiatla-bh1750-5904422373283.html)
 
@@ -16,7 +16,7 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 ![Servo](img/serwo-sg-90-micro-180.webp)
 
-![Servo](img/1-serwo-sg-90-micro-180.webp)
+<!--!![Servo](img/1-serwo-sg-90-micro-180.webp)-->
 
 - [LED Diode 5mm](https://botland.com.pl/diody-led/13606-dioda-led-5mm-zolta-10szt-5903351244244.html)
 
@@ -30,6 +30,10 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 ![Micro USB](img/micro-usb-plus-charger.jpg)
 
+## Used Software
+- <a href="https://fritzing.org/">Fritzing</a>
+- <a href="https://cloud.arduino.cc/">Arduino Cloud - Online Editor</a>
+
 ## Breadboard
 ![Breadboard](img/Breadboard.png)
 
@@ -37,10 +41,6 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 ## Schematic
 ![Schematic](img/Schematic.png)
 
-
-## Used Software
-- <a href="https://fritzing.org/">Fritzing</a>
-- <a href="https://cloud.arduino.cc/">Arduino Cloud - Online Editor</a>
 
 ## YouTube presentation
 <a href="https://youtube.com/shorts/5B9hfxMmvcQ?feature=share3">Click here to see video</a>
