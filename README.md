@@ -30,9 +30,13 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 ![Micro USB](img/micro-usb-plus-charger.jpg)
 
-## Used Software
-- <a href="https://fritzing.org/">Fritzing</a>
-- <a href="https://cloud.arduino.cc/">Arduino Cloud - Online Editor</a>
+## Documentation
+[NodeMCU](https://nodemcu.readthedocs.io/en/release/)
+
+[BH1750 Module](https://nodemcu.readthedocs.io/en/release/lua-modules/bh1750/)
+
+[Servo](https://robojax.com/learn/arduino/robojax-servo-sg90_datasheet.pdf)
+
 
 ## Breadboard
 ![Breadboard](img/Breadboard.png)
@@ -41,12 +45,13 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 ## Schematic
 ![Schematic](img/Schematic.png)
 
+## Used Tools
+- <a href="https://fritzing.org/">Fritzing</a>
+- <a href="https://cloud.arduino.cc/">Arduino Cloud - Online Editor</a>
 
 ## YouTube presentation
 <a href="https://youtube.com/shorts/5B9hfxMmvcQ?feature=share3">Click here to see video</a>
 
-## Documentation
-<a href="https://nodemcu.readthedocs.io/en/release/">NodeMCU</a>
 
 ## My recommendations
 In above presentation I used PowerBank insted of typical USB-C charger, mainly because of another little experiment I was conducting by the way of this project. Also, my recommendation is to buy 4 long wires to connect BH1750 and NodeMCU v3 insted of using many male-to-female wires since it causes many connecting problems during installation (I was simply too lazy :)).
