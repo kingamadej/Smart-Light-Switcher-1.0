@@ -6,6 +6,8 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 
 ![NodeMCUv3](img/wifi-esp8266-nodemcu-v3.webp)
 
+![NodeMCUv3](img/Introduction-to-NodeMCU-V3.png.webp)
+
 <!--![NodeMCUv3](img/esp8266-wifi-nodemcu-v3.webp)-->
 
 - [Light sensor BH1750](https://botland.com.pl/czujniki-swiatla-i-koloru/2024-czujnik-natezenia-swiatla-bh1750-5904422373283.html)
