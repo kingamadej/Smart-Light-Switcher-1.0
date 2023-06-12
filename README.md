@@ -24,6 +24,9 @@ This project aims to create a DIY Smart Light SwitchBot controlled via phone usi
 ## YouTube presentation
 <a href="https://youtube.com/shorts/5B9hfxMmvcQ?feature=share3">Click here to see video</a>
 
+## Documentation
+<a href="https://nodemcu.readthedocs.io/en/release/">NodeMCU</a>
+
 ## My recommendations
 In above presentation I used PowerBank insted of typical USB-C charger, mainly because of another little experiment I was conducting by the way of this project. Also, my recommendation is to buy 4 long wires to connect BH1750 and NodeMCU v3 insted of using many male-to-female wires since it causes many connecting problems during installation (I was simply too lazy :)).
 
