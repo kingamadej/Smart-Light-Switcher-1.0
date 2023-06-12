@@ -7,8 +7,8 @@
 #include "PageIndex.h"; 
 #define ServoPort D1  
 
-const char* ssid = "ESPServo"; 
-const char* password = "12345678"; 
+const char* ssid = "Light"; 
+const char* password = "nopassword"; 
 
 Servo myservo;  
 ESP8266WebServer server(80);  
