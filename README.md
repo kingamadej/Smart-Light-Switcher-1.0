@@ -1,4 +1,4 @@
-# Smart-Light-Switch-Bot (1.0 version)
+# Smart-Light-Switch (1.0 version)
 This project aims to create a DIY Smart Light SwitchBot controlled via phone using wifi.
 
 ## Used Hardware
