@@ -1,4 +1,4 @@
-# DIY Smart-Light-Switcher (1.0 version)
+# Smart-Light-Switcher (1.0 version)
 This project aims to create a DIY Smart Light Switcher controlled via phone using wifi.
 
 ## Breadboard
