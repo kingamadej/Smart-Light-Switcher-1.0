@@ -22,25 +22,25 @@ This project aims to create a DIY Smart Light Switcher controlled via phone usin
 
 - [Light sensor BH1750](https://botland.com.pl/czujniki-swiatla-i-koloru/2024-czujnik-natezenia-swiatla-bh1750-5904422373283.html)
 
-<img src="img/light-sensor-bh1750.webp" alt="BH1750" width="30%"/>
+<img src="img/light-sensor-bh1750.webp" alt="BH1750" width="50%"/>
 
 - [Serwo SG-90 - micro - 180 degrees](https://botland.com.pl/serwa-typu-micro/13128-serwo-sg-90-micro-180-5904422350338.html)
 
-<img src="img/serwo-sg-90-micro-180.webp" alt="Servo" width="30%"/>
+<img src="img/serwo-sg-90-micro-180.webp" alt="Servo" width="40%"/>
 
 <!-- <img src="img/1-serwo-sg-90-micro-180.webp" alt="Servo" width="50%"/> -->
 
 - [LED Diode 5mm](https://botland.com.pl/diody-led/13606-dioda-led-5mm-zolta-10szt-5903351244244.html)
 
-<img src="img/dioda-led-5mm-zolta-10szt.webp" alt="LED" width="30%"/>
+<img src="img/dioda-led-5mm-zolta-10szt.webp" alt="LED" width="40%"/>
 
 - [Wires (male-to-male, female-to-female and men-to-female)](https://botland.com.pl/przewody-polaczeniowe/19946-zestaw-przewodow-polaczeniowych-justpi-20cm-3x40szt-m-m-z-z-m-z-120szt-5904422328702.html)
 
-<img src="img/wires-justpi-20cm-3x40szt-m-m-f-f-m-f-120szt.webp" alt="Wires" width="30%"/>
+<img src="img/wires-justpi-20cm-3x40szt-m-m-f-f-m-f-120szt.webp" alt="Wires" width="40%"/>
 
 - Micro USB long cable + charger
 
-<img src="img/micro-usb-plus-charger.jpg" alt="Micro USB" width="30%"/>
+<img src="img/micro-usb-plus-charger.jpg" alt="Micro USB" width="40%"/>
 
 
 ## Hardware Documentation
