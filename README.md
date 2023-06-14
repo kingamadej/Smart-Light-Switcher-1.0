@@ -1,5 +1,5 @@
-# Smart-Light-Switch (1.0 version)
-This project aims to create a DIY Smart Light SwitchBot controlled via phone using wifi.
+# Smart-Light-Switcher (1.0 version)
+This project aims to create a DIY Smart Light Switcher controlled via phone using wifi.
 
 ## Breadboard
 <i>Author: Kinga Madej </i><a href="https://fritzing.org/">(Fritzing Software)</a>
