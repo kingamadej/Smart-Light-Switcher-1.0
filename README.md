@@ -4,7 +4,7 @@ This project aims to create a DIY Smart Light Switcher controlled via phone usin
 ## Breadboard
 <i>Author: Kinga Madej </i><a href="https://fritzing.org/">(Fritzing Software)</a>
 
-<img src="img/Breadboard.png" alt="#" width="80%"/>
+<img src="img/Breadboard.png" alt="#" width="90%"/>
 
 ## Schematic
 <i>Author: Kinga Madej </i><a href="https://fritzing.org/">(Fritzing Software)</a>
@@ -14,9 +14,9 @@ This project aims to create a DIY Smart Light Switcher controlled via phone usin
 ## Used Hardware
 - [WiFi Module ESP8266 + NodeMCU v3](https://botland.com.pl/moduly-wifi-esp8266/8241-modul-wifi-esp8266-nodemcu-v3-5904422300630.html)
 
-<img src="img/wifi-esp8266-nodemcu-v3.webp" alt="NodeMCUv3" width="70%"/> 
+<img src="img/wifi-esp8266-nodemcu-v3.webp" alt="NodeMCUv3" width="80%"/> 
 
-<img src="img/Introduction-to-NodeMCU-V3.png.webp" alt="NodeMCUv3" width="70%"/>
+<img src="img/Introduction-to-NodeMCU-V3.png.webp" alt="NodeMCUv3" width="80%"/>
 
 <!-- <img src="img/esp8266-wifi-nodemcu-v3.webp" alt="NodeMCUv3" width="50%"/> -->
 
