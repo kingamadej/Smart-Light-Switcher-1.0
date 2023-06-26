@@ -38,6 +38,7 @@ This project aims to create a DIY Smart Light Switcher controlled via phone usin
 
 <p align="center"><img src="img/wires-justpi-20cm-3x40szt-m-m-f-f-m-f-120szt.webp" alt="Wires" width="40%"/></p>
 
+<!--
 - [Long wires with external diameter 1.4mm (men-to-female)](https://botland.com.pl/przewody-pcv/13012-velleman-kmow-zestaw-przewodow-drucianych-pvc-linka-10-kolorow-60m-5410329217679.html)
 
 <p align="center"><img src="img/long-wires.jpg" alt="Long wires" width="40%"/></p>
@@ -52,7 +53,7 @@ This project aims to create a DIY Smart Light Switcher controlled via phone usin
 
 - [Male Pin Raster](https://botland.com.pl/zlacza-bls/4776-pin-meski-do-obudowy-gniazda-raster-254mm-10szt-5904422303181.html)
 
-<p align="center"><img src="img/pin-male-raster-254mm.webp" alt="Male Pin Raster" width="40%"/></p>
+<p align="center"><img src="img/pin-male-raster-254mm.webp" alt="Male Pin Raster" width="40%"/></p>-->
 
 
 - Micro USB long cable + charger
