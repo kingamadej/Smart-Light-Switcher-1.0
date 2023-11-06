@@ -1,6 +1,9 @@
 # Smart-Light-Switcher (1.0 version)
 This project aims to create a DIY Smart Light Switcher controlled via phone using wifi.
 
+## YouTube presentation
+<a href="https://youtube.com/shorts/5B9hfxMmvcQ?feature=share3">Click here to see video</a>
+
 ## Breadboard
 <i>Author: Kinga Madej </i><a href="https://fritzing.org/">(Fritzing Software)</a>
 
@@ -73,9 +76,6 @@ May be useful:
     - <a href="https://github.com/roman-miniailov/nodemcu-v3-fritzing">NodeMCUv3 Wifi ESP86266 component</a>
     - <a href="https://github.com/vdemay/fritzing-parts/tree/master/parts">BH1750 component</a>
 - <a href="https://cloud.arduino.cc/">Arduino Cloud - Online Editor</a>
-
-## YouTube presentation
-<a href="https://youtube.com/shorts/5B9hfxMmvcQ?feature=share3">Click here to see video</a>
 
 ## My recommendations
 In above video presentation I used PowerBank insted of typical USB-C charger, mainly because of another little experiment I was conducting by the way of this project. Also, my recommendation is to buy 4 long wires to connect BH1750 and NodeMCU v3 insted of using many male-to-female wires since it causes many connecting problems during installation (I was simply too lazy :)).
